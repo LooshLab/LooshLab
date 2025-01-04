@@ -2,7 +2,7 @@
 
 Hello, I'm Stephen John Roberts 👋
 
-I'm a technologist, innovator, and founder of Warp Research Labs. My passion lies at the intersection of cutting-edge technology and esoteric science, crafting tools and systems that push the boundaries of human understanding and potential.
+I'm a technologist, innovator, and founder of Loosh Labs. My passion lies at the intersection of cutting-edge technology and esoteric science, crafting tools and systems that push the boundaries of human understanding and potential.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a technologist, innovator, and founder of Warp Research Labs. My passion lie
 
 ### **Exploring the Frontier**
 
-At Warp Research Labs, I specialize in:
+I specialize in:
 
 - Developing **scalar wave devices** for energetic harmonization and manifestation.
 - Crafting **bio-cybernetic tools** that integrate quantum field principles and aetheric science.
@@ -20,7 +20,7 @@ At Warp Research Labs, I specialize in:
 
 ## 💡 **Personal Projects**
 
-Beyond Warp Research Labs, I have been actively involved in:
+I have been actively involved in:
 
 - Designing the **Scalar Wave MWO Harmonization Machine**, a next-generation multi-wave oscillator.
 - Creating **intrinsic data field transfer systems** using water-based imprinting and fractal geometries.
@@ -46,8 +46,8 @@ I am always seeking opportunities to work with like-minded innovators and resear
 
 ## 📫 **Get in Touch**
 
-- **Email:** stephen@warplabs.com
-- **Website:** [Warp Research Labs](https://warpresearchlabs.com)
-- **GitHub:** [WarpLabs](https://github.com/warplabs)
+- **Email:** N/A
+- **Website:** N/A
+- **GitHub:** [LushLab](https://github.com/warplabs)
 
 Let’s shape the future together.
