@@ -48,6 +48,4 @@ I am always seeking opportunities to work with like-minded innovators and resear
 
 - **Email:** N/A
 - **Website:** N/A
-- **GitHub:** [LushLab](https://github.com/warplabs)
-
-Let’s shape the future together.
+- **GitHub:** N/A
