@@ -1,4 +1,4 @@
-# Welcome to Warp Research Labs
+# Welcome to Loosh Labs
 
 Hello, I'm Stephen John Roberts 👋
 
